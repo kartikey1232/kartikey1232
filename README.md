@@ -35,12 +35,22 @@ Federated graph learning system detecting synthetic identity fraud without insti
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tools & Interests
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kartikey1232&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey1232&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+<img src="https://skillicons.dev/icons?i=python,linux,pytorch,neo4j,git,github&theme=dark" alt="Skills" />
 </p>
+
+`Kali Linux` `Burp Suite` `Post-Quantum Cryptography` `Survival Analysis`
+
+<p align="center">
+<img src="https://img.shields.io/github/followers/kartikey1232?label=Followers&style=flat-square&color=2F81F7" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=kartikey1232&label=Profile+Views&color=2F81F7&style=flat-square" alt="Profile views" />
+</p>
+
+---
+
+<p align="center"><i>Building things that sit at the intersection of security and data — one CVE, one graph, one exploit chain at a time.</i></p></p>
 
 ---
 
