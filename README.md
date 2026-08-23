@@ -23,11 +23,11 @@ Final-year CSE student @ VIT Chennai · Cybersecurity & Applied ML
 
 ### 🧩 Featured Projects
 
-**[Beyond EPSS](https://github.com/your-username/beyond-epss)**
+**[Beyond EPSS](https://github.com/kartikey1232/beyond-epss)**
 Predicts *when* a CVE will be added to CISA's Known Exploited Vulnerabilities catalog, not just *whether* it will be — using survival analysis instead of standard binary classification. Built with a strict discipline of separating illustrative vs. real benchmark figures.
 `Python` `Survival Analysis` `Cox PH` `XGBoost-AFT`
 
-**[VeriGraph](https://github.com/your-username/verigraph)**
+**[VeriGraph](https://github.com/kartikey1232/verigraph)**
 Federated graph learning system detecting synthetic identity fraud without institutions sharing raw customer data. My responsibility: the heterogeneous GNN architecture and PCAA (Probabilistic Confidence-Aware Aggregation) mechanism. 102/102 tests passing on the employment-view implementation.
 `Python` `PyTorch Geometric` `Federated Learning` `Differential Privacy`
 
@@ -38,8 +38,8 @@ Federated graph learning system detecting synthetic identity fraud without insti
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kartikey1232&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey1232&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 </p>
 
 ---
